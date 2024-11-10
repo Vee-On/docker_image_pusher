@@ -1,4 +1,3 @@
-linuxserver/jellyfin
 linuxserver/qbittorrent
 syncthing/syncthing
 
